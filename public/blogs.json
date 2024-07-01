@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "title": "Understanding React Hooks",
+      "author": "Jane Doe",
+      "content": "React Hooks are functions that let you use state and other React features without writing a class..."
+    },
+    {
+      "id": 2,
+      "title": "Getting Started with Bootstrap",
+      "author": "John Smith",
+      "content": "Bootstrap is a powerful front-end framework for faster and easier web development. It includes HTML and CSS based design templates..."
+    },
+    {
+      "id": 3,
+      "title": "A Guide to Modern JavaScript",
+      "author": "Alice Johnson",
+      "content": "Modern JavaScript has introduced a range of new features, including arrow functions, template literals, and async/await..."
+    },
+    {
+      "id": 4,
+      "title": "CSS Grid Layout: A New Way to Build Web Layouts",
+      "author": "Bob Brown",
+      "content": "CSS Grid Layout is a two-dimensional layout system for the web. It allows you to create complex layouts more easily..."
+    },
+    {
+      "id": 5,
+      "title": "Mastering Git and GitHub",
+      "author": "Carol White",
+      "content": "Git is a distributed version control system, and GitHub is a platform for hosting and collaborating on Git repositories. Together, they make it easier to manage your code..."
+    },
+    {
+      "id": 6,
+      "title": "Introduction to TypeScript",
+      "author": "David Black",
+      "content": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. It offers static typing and robust tooling..."
+    },
+    {
+      "id": 7,
+      "title": "Building Single Page Applications with Vue.js",
+      "author": "Eva Green",
+      "content": "Vue.js is a progressive JavaScript framework for building user interfaces. It is easy to integrate into projects using other JavaScript libraries..."
+    },
+    {
+      "id": 8,
+      "title": "Node.js for Backend Development",
+      "author": "Frank Harris",
+      "content": "Node.js is an open-source, cross-platform JavaScript runtime environment that executes JavaScript code outside a web browser..."
+    },
+    {
+      "id": 9,
+      "title": "Exploring the JAMstack",
+      "author": "Grace Lee",
+      "content": "JAMstack stands for JavaScript, APIs, and Markup. It's a modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup..."
+    },
+    {
+      "id": 10,
+      "title": "Developing Mobile Apps with React Native",
+      "author": "Henry Adams",
+      "content": "React Native allows you to create mobile applications using only JavaScript. It uses the same design as React, letting you compose a rich mobile UI from declarative components..."
+    },
+    {
+      "id": 11,
+      "title": "Effective Web Design Principles",
+      "author": "Ivy Scott",
+      "content": "Effective web design is about making the right choices to achieve the desired outcome. It involves understanding the users' needs and designing the user interface accordingly..."
+    },
+    {
+      "id": 12,
+      "title": "Building RESTful APIs with Express.js",
+      "author": "Jack Clark",
+      "content": "Express.js is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications..."
+    },
+    {
+      "id": 13,
+      "title": "Introduction to GraphQL",
+      "author": "Kara Walker",
+      "content": "GraphQL is a query language for your API, and a server-side runtime for executing queries by using a type system you define for your data..."
+    },
+    {
+      "id": 14,
+      "title": "Understanding Asynchronous JavaScript",
+      "author": "Liam Martin",
+      "content": "Asynchronous JavaScript is an essential concept for working with APIs and handling events. Promises and async/await make asynchronous code easier to write and read..."
+    },
+    {
+      "id": 15,
+      "title": "Responsive Web Design with Flexbox",
+      "author": "Mia Wilson",
+      "content": "Flexbox is a one-dimensional layout method for laying out items in rows or columns. It helps to create a responsive web design with flexible and efficient layouts..."
+    },
+    {
+      "id": 16,
+      "title": "Enhancing Web Performance",
+      "author": "Noah Thompson",
+      "content": "Web performance optimization is the process of increasing the speed in which web pages are downloaded and displayed on the user's web browser..."
+    },
+    {
+      "id": 17,
+      "title": "Introduction to Web Accessibility",
+      "author": "Olivia King",
+      "content": "Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them..."
+    },
+    {
+      "id": 18,
+      "title": "Implementing JWT Authentication",
+      "author": "Paul Martinez",
+      "content": "JSON Web Tokens (JWT) are an open, industry-standard RFC 7519 method for representing claims securely between two parties..."
+    },
+    {
+      "id": 19,
+      "title": "Server-Side Rendering with Next.js",
+      "author": "Quincy Brown",
+      "content": "Next.js is a React framework that enables server-side rendering and generating static websites for React based web applications..."
+    },
+    {
+      "id": 20,
+      "title": "State Management with Redux",
+      "author": "Rachel Davis",
+      "content": "Redux is a predictable state container for JavaScript applications. It helps you write applications that behave consistently, run in different environments, and are easy to test..."
+    },
+    {
+      "id": 21,
+      "title": "Deploying Applications with Docker",
+      "author": "Sam Wilson",
+      "content": "Docker is an open platform for developing, shipping, and running applications. It enables you to separate your applications from your infrastructure so you can deliver software quickly..."
+    },
+    {
+      "id": 22,
+      "title": "Understanding CSS Preprocessors",
+      "author": "Tina Robinson",
+      "content": "CSS preprocessors like Sass and Less are scripting languages that extend CSS and compile it into regular CSS. They enable you to use features that are not available in CSS, such as variables, nesting, and mixins..."
+    },
+    {
+      "id": 23,
+      "title": "Building Progressive Web Apps",
+      "author": "Uma Patel",
+      "content": "Progressive Web Apps (PWAs) are web applications that use modern web capabilities to deliver an app-like experience to users. They are reliable, fast, and engaging..."
+    },
+    {
+      "id": 24,
+      "title": "Introduction to Machine Learning with JavaScript",
+      "author": "Victor Gomez",
+      "content": "Machine learning is a method of data analysis that automates analytical model building. Using JavaScript libraries like TensorFlow.js, you can run machine learning models directly in the browser..."
+    },
+    {
+      "id": 25,
+      "title": "Understanding Web Security Basics",
+      "author": "Wendy Brooks",
+      "content": "Web security is a critical aspect of web development. It includes practices and tools to protect web applications from security threats and vulnerabilities, such as cross-site scripting (XSS) and SQL injection..."
+    }
+  ]
+  
